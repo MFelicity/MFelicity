@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Felicity Mwendwa
 - 👀 I’m interested in software development using php and python
 - 🌱 I’m currently learning basics in PHP
-- 📫 Get in touch with me via email felicitymaingi21@gmail.com or on Twitter @_mfelicity
+- 📫 Get in touch with me via email felicitymaingi21@gmail.com
